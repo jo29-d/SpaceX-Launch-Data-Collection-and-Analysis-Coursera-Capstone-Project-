@@ -1,0 +1,2 @@
+# SpaceX-Launch-Data-Collection-and-Analysis-Coursera-Capstone-Project-
+This Jupyter Notebook, part of the Coursera IBM Data Science Certificate capstone, uses Python to collect and analyze SpaceX launch data via APIs. It demonstrates data cleaning, exploration, and visualization techniques, uncovering insights like success rates and payload trends. Key tools include Pandas, Matplotlib, and Seaborn.
